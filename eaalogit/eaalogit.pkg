@@ -1,5 +1,8 @@
-d 'DEA': Data envelopment analysis
+d 'eaalogit': Endogenous attribute attendance models Use eaalogit With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f eaa_gf0.mata
+f eaa_gf0.mo
+f eaalogit.ado
+f eaalogit.sthlp
+f eaapred.ado
+f genfact.ado
