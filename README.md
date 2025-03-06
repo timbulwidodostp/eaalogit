@@ -1,6 +1,8 @@
 # eaalogit
 Endogenous attribute attendance models Use eaalogit With STATA 18
 
+https://www.youtube.com/watch?v=7sT-bBAH3xQ
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
